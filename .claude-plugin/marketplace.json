@@ -1,0 +1,27 @@
+{
+  "name": "jovonbuilds",
+  "owner": {
+    "name": "Jovon"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by jovonbuilds"
+  },
+  "plugins": [
+    {
+      "name": "claude-needs-you",
+      "source": {
+        "source": "github",
+        "repo": "jovonbuilds/claude-needs-you"
+      },
+      "description": "Native OS notifications when Claude Code needs your attention — permission prompts, questions, idle, and task completion.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jovon"
+      },
+      "repository": "https://github.com/jovonbuilds/claude-needs-you",
+      "license": "MIT",
+      "keywords": ["notifications", "macos", "linux", "windows", "productivity"],
+      "category": "productivity"
+    }
+  ]
+}
